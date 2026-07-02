@@ -1,8 +1,8 @@
 # Lab 1: Dataflow Modeling of 8-bit ALU
 
-Name: Snigdh Karki
+Name: Sunit Kumar Shrestha
 
-Roll no: 079bct081
+Roll no: 079bct089
 
 # Project Overview: 8-Bit ALU
 
